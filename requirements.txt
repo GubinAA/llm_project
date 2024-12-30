@@ -1,0 +1,8 @@
+telethon==1.29.0
+sentence-transformers==2.2.2
+huggingface-hub==0.14.1
+faiss-cpu==1.7.4
+streamlit==1.27.0
+langchain-gigachat
+langchain-core
+pandas
